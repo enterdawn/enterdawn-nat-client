@@ -1,0 +1,10 @@
+main
+ip:106.14.147.48
+port:8899
+token:a
+
+tcptest
+type:tcp
+local_ip:127.0.0.1
+local_port:3306
+remote_port:6022
