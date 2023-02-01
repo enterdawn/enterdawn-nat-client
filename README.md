@@ -1,5 +1,7 @@
 # enterdawn-nat-client
 
-Ò»¸öC++ÄÚÍø´©Í¸Íæ¾ßÏîÄ¿£¬Ä¿Ç°Ö»ÄÜ½ÓÊÕ¼òµ¥ĞÅÏ¢¡£ÅäºÏ[enterdawn-nat-server](https://github.com/enterdawn/enterdawn-nat-server)Ê¹ÓÃ¡£
+ä¸€ä¸ªC++å†…ç½‘ç©¿é€ç©å…·é¡¹ç›®ï¼Œç›®å‰åªèƒ½æ¥æ”¶ç®€å•ä¿¡æ¯ã€‚é…åˆ[enterdawn-nat-server](https://github.com/enterdawn/enterdawn-nat-server)ä½¿ç”¨ã€‚
 
-ÔËĞĞ»·¾³£ºWindows 11 VS Community 2022 
+è¿è¡Œç¯å¢ƒï¼šWindows 11 VS Community 2022 
+
+DO NOT TRY TO UNDERSTAND IT.
